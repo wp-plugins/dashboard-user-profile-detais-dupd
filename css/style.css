@@ -1,0 +1,39 @@
+#dup .top-holder{
+	display:block;
+	margin-bottom:15px;
+	overflow:hidden;
+}
+#dup .image-holder{
+	float:left;
+	margin:0 20px 10px 0;
+	width:112px;
+}
+#dup .image-holder .avatar{
+	float:left;
+	background:#eee no-repeat;
+	border:1px solid #ccc;
+	height:100px;width:100px;
+	padding:5px;
+}
+#dup .image-holder .instruction{
+	float:left;
+	font-size:13px;
+	text-align:center;
+}
+#dup .name-status-holder{
+	float:left;
+}
+#dup .name-status-holder .tuner-name{
+	font-size:23px;
+	margin:5px 0 0;
+}
+#dup .name-status-holder .dup-text{
+	font-size:13px;
+	margin:5px 0;
+}
+#dup .name-status-holder p{
+	font-size:13px;
+}
+#dup .info-holder{
+	clear:both;
+}
